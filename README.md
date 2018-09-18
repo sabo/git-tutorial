@@ -1,4 +1,4 @@
-# CMPSC tew twernty six
+# CMSC 226
 ## Git Tutorial: Git is not a time makine
 
 ### Links
