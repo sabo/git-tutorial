@@ -1,5 +1,5 @@
 # CMPSC tew twernty six
-## Git Tutorial
+## Git Tutorial: Git is not a time makine
 
 ### Links
 * [Presentation](https://docs.google.com/presentation/d/1TLqW8EZeVm-0JzOmQ2Wurn5nZYdYeyKKZ1d3tEGqmMA/edit?usp=sharing)
