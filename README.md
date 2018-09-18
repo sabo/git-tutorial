@@ -1,5 +1,5 @@
 # CMPSC tew twernty six
-## the git thing
+## Git Tutorial
 
 ### Links
 * [Presentation](https://docs.google.com/presentation/d/1TLqW8EZeVm-0JzOmQ2Wurn5nZYdYeyKKZ1d3tEGqmMA/edit?usp=sharing)
