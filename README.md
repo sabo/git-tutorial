@@ -1,4 +1,4 @@
-# CompSkyence Tew Twanty Two Times Three
+# CompSkyence Tew Twanty (Two Times Three)
 ## Git Tutorial: Git is not a time makine
 
 ### Links
